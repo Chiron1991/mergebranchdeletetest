@@ -1,2 +1,3 @@
 # mergebranchdeletetest
 foo
+bar
